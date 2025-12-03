@@ -34,11 +34,11 @@ samples/
         domain/
         infrastructure/
 
-  domain-centric/         # Clean / Hexagonal / DDD（第2回予定）
+  domain-centric/         # Clean / Hexagonal / DDD（第2回）
     simple-cli/
 
-  microservices/          # Microservices / SOA（第3回予定）
-    ...
+  microservices/          # Microservices / SOA（第3回）
+    simple-http/
 
   event-driven/           # EDA / CQRS / Event Sourcing（第4回予定）
     ...
@@ -57,7 +57,7 @@ samples/
 | 回 | アーキテクチャ | 記事 | サンプルコード |
 |---|-----------------|------|----------------|
 | #1 | レイヤード（Layered / N-Tier） | *公開中* | `samples/layered/simple-cli` |
-| #2 | ドメイン中心（Clean / Hexagonal / DDD） | *公開予定* | `samples/domain-centric/...` |
+| #2 | ドメイン中心（Clean / Hexagonal / DDD） | *公開中* | `samples/domain-centric/...` |
 | #3 | 分散（Microservices） | *公開予定* | `samples/microservices/...` |
 | #4 | イベント駆動（EDA / CQRS） | *公開予定* | `samples/event-driven/...` |
 | #5 | クラウドネイティブ | *公開予定* | `samples/cloud-native/...` |
