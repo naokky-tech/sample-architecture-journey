@@ -17,8 +17,6 @@
 
 ## アーキテクチャ構成（図案）
 
-（図案提案：Publisher → EventBus → Consumers の矢印関係を示す図）
-
 ```mermaid
 flowchart TD
 
