@@ -1,0 +1,1 @@
+# simple-serverless src パッケージを示す空ファイル
