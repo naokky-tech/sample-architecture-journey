@@ -60,8 +60,8 @@ samples/
 | #2 | ドメイン中心（Clean / Hexagonal / DDD） | *公開中* | `samples/domain-centric/...` |
 | #3 | 分散（Microservices） | *公開中* | `samples/microservices/...` |
 | #4 | イベント駆動（EDA / CQRS） | *公開中* | `samples/event-driven/...` |
-| #5 | クラウドネイティブ | *公開予定* | `samples/cloud-native/...` |
-| #6 | エージェント制御プレーン | *公開予定* | `samples/control-plane-agents/...` |
+| #5 | クラウドネイティブ | *公開中* | `samples/cloud-native/...` |
+| #6 | エージェント制御プレーン | *公開中* | `samples/control-plane-agents/...` |
 
 各サンプルの説明は `samples/<arch>/<sample>/README.md` に記載しています。
 
